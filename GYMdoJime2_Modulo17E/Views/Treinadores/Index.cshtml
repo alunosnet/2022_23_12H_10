@@ -1,0 +1,54 @@
+﻿@model IEnumerable<GYMdoJime2_Modulo17E.Models.Treinadores>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+
+</p>
+@Html.ActionLink("Ordenar po idade", "Index", new { id = 2 })
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TreinadoresName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TreinadoresIdade)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TreinadoresEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TreinadoresTelefone)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TreinadoresName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TreinadoresIdade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TreinadoresEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TreinadoresTelefone)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.TreinadoresID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.TreinadoresID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.TreinadoresID })
+            </td>
+        </tr>
+    }
+
+</table>

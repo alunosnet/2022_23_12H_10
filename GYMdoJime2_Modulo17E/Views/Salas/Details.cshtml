@@ -1,0 +1,45 @@
+﻿@model GYMdoJime2_Modulo17E.Models.Salas
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Salas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.NomeSala)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomeSala)
+        </dd>
+        @if (ViewBag.utilizacoes != null)
+        {
+            <dt>
+                Numero de utilizações desta sala
+            </dt>
+            <dd>
+                @ViewBag.utilizacoes
+            </dd>
+            @Html.ActionLink("Especificações das utilizações", "Index", "Marcacoes")
+        }
+
+
+
+
+
+
+
+
+
+    </dl>
+    
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.SalaID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

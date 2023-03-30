@@ -1,0 +1,50 @@
+﻿@model GYMdoJime2_Modulo17E.Models.Marcacoes
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Marcacoes</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.SalaID.NomeSala)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SalaID.NomeSala)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoAulaID.NomeAula)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoAulaID.NomeAula)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TreinadoresID.TreinadoresName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TreinadoresID.TreinadoresName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MarcacoesDataHora)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MarcacoesDataHora)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.MarcacoesID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

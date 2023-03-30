@@ -1,0 +1,50 @@
+﻿@model GYMdoJime2_Modulo17E.Models.Treinadores
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Treinadores</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TreinadoresName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TreinadoresName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TreinadoresIdade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TreinadoresIdade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TreinadoresEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TreinadoresEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TreinadoresTelefone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TreinadoresTelefone)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TreinadoresID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

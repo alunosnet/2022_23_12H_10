@@ -1,0 +1,47 @@
+﻿@model IEnumerable<GYMdoJime2_Modulo17E.Models.Utilizadores>
+@{
+    ViewBag.Title = "PesquisaUtilizador";
+}
+
+<h2>PesquisaCliente</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.idade)
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.idade)
+            </td>
+
+
+        </tr>
+    }
+
+</table>
+
+
+
+
