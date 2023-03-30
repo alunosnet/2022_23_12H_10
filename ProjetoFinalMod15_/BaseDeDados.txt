@@ -1,0 +1,61 @@
+Create table Paciente(
+	idpaciente int identity primary key ,
+	nome varchar(50) check(len(nome) >= 3),
+	CC varchar(12) NOT NULL,
+	data_nasc date NOT NULL,
+	idade int,
+	telefone varchar(9),
+	genero varchar(1) check(genero = 'M' or genero = 'F') NOT NULL
+)
+
+Create table Medico(
+	idmedico int identity primary key ,
+	nome varchar(50) check(len(nome) >= 3),
+	especializacao varchar(50) check(len(especializacao) >= 3),
+	data_nascimento date,
+	idade int,
+	telefone varchar(9) NOT NULL,
+	genero varchar(1) check(genero='M' or genero='F') NOT NULL
+)
+
+Create table Marcacao(
+	Marcacao int identity primary key,
+	idpaciente int references Paciente(idpaciente),
+	idmedico int references Medico(idmedico),
+	data_marcacao date default(getdate()),
+	hora_marcacao varchar(5),
+	tipoconsulta varchar(50)
+)
+
+Create Trigger CalcularIdadePaciente 
+ON Paciente
+After UPDATE AS 
+BEGIN
+
+	Declare @data_nasc date;
+	Declare @idade int;
+	Declare @idpaciente int;
+	select @idpaciente = INSERTED.idpaciente FROM INSERTED;
+	SELECT @data_nasc = INSERTED.data_nasc from INSERTED;
+	set @idade = datediff(year,@data_nasc, getdate()); 
+	UPDATe Paciente
+	set idade=@idade
+	where Paciente.idpaciente = @idpaciente
+END	
+
+
+Create Trigger CalcularIdadeMedico 
+ON Medico
+After UPDATE AS 
+BEGIN
+
+	Declare @data_nascimento date;
+	Declare @idade int;
+	Declare @idmedico int;
+	select @idmedico = INSERTED.idmedico FROM INSERTED;
+	SELECT @data_nascimento = INSERTED.data_nascimento from INSERTED;
+	set @idade = datediff(year,@data_nascimento, getdate()); 
+	UPDATe Medico
+	set idade=@idade
+	where Medico.idmedico = @idmedico
+END	
