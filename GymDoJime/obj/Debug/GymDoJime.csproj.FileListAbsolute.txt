@@ -1,0 +1,177 @@
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\GymDoJime.dll.config
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\GymDoJime.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\GymDoJime.pdb
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\csc.exe
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\csc.exe.config
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\csc.rsp
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\csi.exe
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\csi.exe.config
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\csi.rsp
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.AppContext.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Console.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Net.Http.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\vbc.exe
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\vbc.exe.config
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\vbc.rsp
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\obj\Debug\GymDoJime.csproj.AssemblyReference.cache
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\obj\Debug\GymDoJime.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\obj\Debug\GymDoJime.csproj.CopyComplete
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\obj\Debug\GymDoJime.dll
+C:\Users\Jaime Ribeiro\source\repos\GymDoJime\GymDoJime\obj\Debug\GymDoJime.pdb
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\GymDoJime.dll.config
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\GymDoJime.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\GymDoJime.pdb
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\csc.exe
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\csc.exe.config
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\csc.rsp
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\csi.exe
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\csi.exe.config
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\csi.rsp
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.AppContext.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Console.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Net.Http.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\vbc.exe
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\vbc.exe.config
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\vbc.rsp
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\obj\Debug\GymDoJime.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\obj\Debug\GymDoJime.csproj.CopyComplete
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\obj\Debug\GymDoJime.dll
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\obj\Debug\GymDoJime.pdb
+C:\Users\Jaime Ribeiro\Desktop\GymDoJime\GymDoJime\obj\Debug\GymDoJime.csproj.AssemblyReference.cache
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\GymDoJime.dll.config
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\GymDoJime.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\GymDoJime.pdb
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\csc.exe
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\csc.exe.config
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\csc.rsp
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\csi.exe
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\csi.exe.config
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\csi.rsp
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.AppContext.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Console.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.IO.Compression.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Net.Http.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.ValueTuple.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\vbc.exe
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\vbc.exe.config
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\vbc.rsp
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\VBCSCompiler.exe
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\obj\Debug\GymDoJime.csproj.AssemblyReference.cache
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\obj\Debug\GymDoJime.csproj.CoreCompileInputs.cache
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\obj\Debug\GymDoJime.csproj.CopyComplete
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\obj\Debug\GymDoJime.dll
+C:\Users\jaime\OneDrive\Ambiente de Trabalho\GymDoJime\GymDoJime\obj\Debug\GymDoJime.pdb
